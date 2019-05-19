@@ -80,7 +80,7 @@ class DashboardController extends Controller
                         ->select('anggaran.jumlah_anggaran')
                         ->where('anggaran.tahun_anggaran', '=', DB::raw('YEAR(CURDATE())'))
                         ->get();
-
+                    
         $anggaran2 = $anggaran[0]->jumlah_anggaran;
         $real_sisa_dana = $anggaran2 - $total_invoice - $total_biaya_lain;
         $utilisasi = round($total_terpakai / $anggaran2 * 100,2);

@@ -5,7 +5,7 @@
       <li class="nav-item">
         <a class="nav-link" data-widget="pushmenu" href="#"><i class="fa fa-bars"></i></a>
       </li>
-      <h4 style="padding-top: 7px"> Sistem Informasi Training Artajasa</h4>
+      <h4 style="padding-top: 7px"> Sistem Informasi Training & Kepegawaian</h4>
       <!-- <li class="nav-item d-none d-sm-inline-block">
         <a href="/index3.html" class="nav-link">Home</a>
       </li>

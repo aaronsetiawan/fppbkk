@@ -1,5 +1,5 @@
   <footer class="main-footer">
-    <strong>Sistem Informasi Training Artajasa, Made in 2018</strong>
+    <strong>Sistem Informasi Training & Kepegawaian 2019</strong>
   </footer>
   
   <!-- Control Sidebar -->

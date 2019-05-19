@@ -5,8 +5,8 @@
 <link rel="stylesheet" href="/AdminLTE/plugins/datatables/dataTables.bootstrap4.css">
 <!-- Select2 -->
 <link rel="stylesheet" href="/AdminLTE/plugins/select2/select2.min.css">
-{{-- export --}}
-<link rel="stylesheet" href="/css/buttons.dataTables.min.css">
+<!-- {{-- export --}}
+<link rel="stylesheet" href="/css/buttons.dataTables.min.css"> -->
 
 @endsection
 @section('content')
